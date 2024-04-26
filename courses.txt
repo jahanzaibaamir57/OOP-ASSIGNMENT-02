@@ -1,0 +1,8 @@
+OOP,Sir Tamim Khan,8:30,4-17,A,0
+OOP,Sir Tamim Khan,10:00,4-18,B,0
+OOP Lab,Sir Waleed Khan,8:30,Lab 4-02,A,1
+OOP Lab,Sir Waleed Khan,10:00,Lab 4-01,B,1
+DSA,Miss Joddat Fatima Khan,8:30,4-19,A,2
+DSA,Miss Joddat Fatima Khan,10:00,4-17,B,2
+Computer Programming,Sir Raja Suleman,8:30,4-18,A,3
+Computer Programming,Sir Raja Suleman,10:00,4-19,B,3
